@@ -10,4 +10,4 @@
 
 Вот его фото 
 
-![фото кота] (img src="file:///C:/Тестировщик/Шуша.jpg" )
+![фото кота] (https://disk.yandex.ru/client/disk) 
